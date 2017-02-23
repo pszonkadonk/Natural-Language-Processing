@@ -17,6 +17,6 @@ def top_words(words, scores):
 
 
 
-foo = top_words(10, [1,2])
+foo = top_words(10, [1,3])
 
 print(foo)
