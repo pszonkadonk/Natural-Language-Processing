@@ -1,80 +1,215 @@
-location,rating,name
-CLEVELAND,4.8,NovaStudios
-Blaine,4.9,opencollar
-Euless,4.7,Rahim Khan
-Depalpur,5.0,Neu Tech Team
-Arlington,5.0,OcarinaCnG
-Columbia,5.0,Rohit Gupta
-Tulsa,5.0,Blake Connally
-Champaign,4.8,Illinek
-NJ,5.0,"Web, Mobile Apps, Desktop"
-Pearland,4.8,jxsarwar
-location,rating,name
-CLEVELAND,4.8,NovaStudios
-Blaine,4.9,opencollar
-Euless,4.7,Rahim Khan
-Depalpur,5.0,Neu Tech Team
-Glendale,5.0,Smbat Minasyan
-Columbia,5.0,Rohit Gupta
-Worcester,4.8,TRANSFORM INDESIGN
-NJ,5.0,"Web, Mobile Apps, Desktop"
-Northridge,4.8,Infoway LLC
-Pearland,4.8,jxsarwar
-location,rating,name
-Brooklyn,5.0,Sam Michael
-CLEVELAND,4.8,NovaStudios
-Euless,4.7,Rahim Khan
-Fairfax,5.0,Amyn Virani
-San Jose,5.0,DavidPon
-Denver,5.0,Ta0soft
-Tulsa,5.0,Blake Connally
-Champaign,4.8,Illinek
-Kansas City,4.9,Gregory Bair
-farmington,4.7,Website/Graphic Designer
-location,rating,name
-Independence,5.0,robertbarryson
-Campbell,4.8,Tudip Technologies
-Blaine,4.9,opencollar
-Urbandale,5.0,akh32
-Champaign,4.8,Illinek
-Los Angeles,5.0,Dawn - IT
-Tamarac,4.9,Q-Protex
-San Jose,5.0,DavidPon
-NJ,5.0,"Web, Mobile Apps, Desktop"
-Chicago,4.9,I-Creative Tech
-location,rating,name
-CLEVELAND,4.8,NovaStudios
-Blaine,4.9,opencollar
-Depalpur,5.0,Neu Tech Team
-Arlington,5.0,OcarinaCnG
-Glendale,5.0,Smbat Minasyan
-tempe,4.6,The Bug Stops here
-Tulsa,5.0,Blake Connally
-Champaign,4.8,Illinek
-Northridge,4.8,Infoway LLC
-NJ,5.0,"Web, Mobile Apps, Desktop"
-location,rating,name
-Campbell,4.8,Tudip Technologies
-Gainesville,4.9,helmot
-location,rating,name
-Champaign,4.8,Illinek
-Germantown,4.9,mahtab7
-Fairfax,5.0,Amyn Virani
-Gainesville,4.9,helmot
-Arlington,5.0,OcarinaCnG
-Oklahoma,5.0,Dhammika Maheshani
-West Jordan,5.0,MasterOfNumbers
-Denver,5.0,Ta0soft
-NJ,5.0,"Web, Mobile Apps, Desktop"
-Kansas City,4.9,Gregory Bair
-location,rating,name
-CLEVELAND,4.8,NovaStudios
-Champaign,4.8,Illinek
-Depalpur,5.0,Neu Tech Team
-Arlington,5.0,OcarinaCnG
-tempe,4.6,The Bug Stops here
-Columbia,5.0,Rohit Gupta
-Worcester,4.8,TRANSFORM INDESIGN
-Tulsa,5.0,Blake Connally
-Atlanta,4.8,Best Academic Writing
-MORRISVILLE,4.9,Devon Drynoch
+location,rating,name,review_count
+CLEVELAND,4.8,NovaStudios,590
+Champaign,4.8,Illinek,470
+Pearland,4.8,jxsarwar,187
+Hollywood,4.9,driverrodrick,61
+Tulsa,5.0,Blake Connally,12
+NJ,5.0,"Web, Mobile Apps, Desktop",128
+Columbia,5.0,Rohit Gupta,5
+Boca Raton,5.0,Level 6 LLC,10
+Euless,4.7,Rahim Khan,134
+Jersey City,5.0,PhoenixGeek,83
+location,rating,name,review_count
+CLEVELAND,4.8,NovaStudios,590
+Atlanta,4.8,Best Academic Writing,54
+Champaign,4.8,Illinek,470
+San Jose,5.0,DavidPon,11
+Worcester,4.8,TRANSFORM INDESIGN,226
+MORRISVILLE,4.9,Devon Drynoch,35
+Tulsa,5.0,Blake Connally,12
+Columbia,5.0,Rohit Gupta,5
+Boca Raton,5.0,Level 6 LLC,10
+tempe,4.6,The Bug Stops here,191
+location,rating,name,review_count
+CLEVELAND,4.8,NovaStudios,590
+Champaign,4.8,Illinek,470
+San Jose,5.0,DavidPon,11
+Kansas City,4.9,Gregory Bair,709
+Tulsa,5.0,Blake Connally,12
+Fairfax,5.0,Amyn Virani,44
+Denver,5.0,Ta0soft,126
+Gainesville,4.9,helmot,197
+Boca Raton,5.0,Level 6 LLC,10
+Euless,4.7,Rahim Khan,134
+location,rating,name,review_count
+Ypsilanti,4.9,Vuk Ivanovic,82
+Austin,5.0,Joseph Cardwell,35
+Champaign,4.8,Illinek,470
+Newark,5.0,doublebc,181
+Fairfax,5.0,Amyn Virani,44
+Tamarac,4.9,Q-Protex,78
+Gainesville,4.9,helmot,197
+Euless,4.7,Rahim Khan,134
+Austin,4.7,MultiverseSol,29
+Los Angeles,5.0,Dawn - IT,32
+location,rating,name,review_count
+CLEVELAND,4.8,NovaStudios,590
+Champaign,4.8,Illinek,470
+Newark,5.0,doublebc,181
+Hollywood,4.9,driverrodrick,61
+Tulsa,5.0,Blake Connally,12
+Fairfax,5.0,Amyn Virani,44
+York,5.0,djt72,126
+NJ,5.0,"Web, Mobile Apps, Desktop",128
+tempe,4.6,The Bug Stops here,191
+Jersey City,5.0,PhoenixGeek,83
+location,rating,name,review_count
+CLEVELAND,4.8,NovaStudios,590
+Fort Wayne,4.9,Writer075 Inc.,427
+Pearland,4.8,jxsarwar,187
+Newark,5.0,doublebc,181
+Hollywood,4.9,driverrodrick,61
+Worcester,4.8,TRANSFORM INDESIGN,226
+Denver,5.0,Ta0soft,126
+NJ,5.0,"Web, Mobile Apps, Desktop",128
+Euless,4.7,Rahim Khan,134
+Jersey City,5.0,PhoenixGeek,83
+location,rating,name,review_count
+Champaign,4.8,Illinek,470
+Kansas City,4.9,Gregory Bair,709
+Newark,5.0,doublebc,181
+Oklahoma,5.0,Dhammika Maheshani,36
+Fairfax,5.0,Amyn Virani,44
+Denver,5.0,Ta0soft,126
+Gainesville,4.9,helmot,197
+Tamarac,4.9,Q-Protex,78
+NJ,5.0,"Web, Mobile Apps, Desktop",128
+Germantown,4.9,mahtab7,101
+location,rating,name,review_count
+Phoenix,5.0,ruby_SmartBusiness,20
+El Paso,5.0,Gabriel Gonzalez,26
+Atlanta,4.8,Best Academic Writing,54
+Champaign,4.8,Illinek,470
+Kansas City,4.9,Gregory Bair,709
+Cupertino,4.9,cupertinovw-Jay,80
+location,rating,name,review_count
+El Paso,5.0,Gabriel Gonzalez,26
+Champaign,4.8,Illinek,470
+Kansas City,4.9,Gregory Bair,709
+Richardson,4.9,hilaloo86,32
+Gilbert,5.0,MaxDongell,15
+Denver,5.0,Ta0soft,126
+West Jordan,5.0,MasterOfNumbers,112
+Glen Elder,4.9,James Walpole,121
+New York,4.8,Paul Words,124
+johnson city,5.0,Thoughtfulwrites,455
+location,rating,name,review_count
+johnson city,5.0,Thoughtfulwrites,455
+Kansas City,4.9,Gregory Bair,709
+Costa Mesa,4.8,iGT Tech,88
+Surprise,4.9,Chris Robert,227
+Union City,4.9,MydZnecoz,89
+Near Buffalo,5.0,point2pont,129
+Newyork,4.6,Annie Studio,119
+Germantown,4.9,mahtab7,101
+Jersey City,5.0,PhoenixGeek,83
+New Port Richey,5.0,gr8creations,84
+location,rating,name,review_count
+Pearland,4.8,jxsarwar,187
+Kansas City,4.9,Gregory Bair,709
+Jersey City,5.0,PhoenixGeek,83
+Worcester,4.8,TRANSFORM INDESIGN,226
+Surprise,4.9,Chris Robert,227
+Seattle,4.7,Expert Academics,89
+Glen Elder,4.9,James Walpole,121
+Near Buffalo,5.0,point2pont,129
+Germantown,4.9,mahtab7,101
+johnson city,5.0,Thoughtfulwrites,455
+location,rating,name,review_count
+Urbandale,5.0,akh32,13
+Champaign,4.8,Illinek,470
+Independence,5.0,robertbarryson,9
+San Jose,5.0,DavidPon,11
+Oak Hills,5.0,UnitedWebSpace,5
+Tamarac,4.9,Q-Protex,78
+Cupertino,4.9,cupertinovw-Jay,80
+NJ,5.0,"Web, Mobile Apps, Desktop",128
+Chicago,4.9,I-Creative Tech,19
+Los Angeles,5.0,Dawn - IT,32
+location,rating,name,review_count
+Markham,5.0,Randel G. Smith,16
+Oceanside,5.0,JWasson,3
+NJ,5.0,"Web, Mobile Apps, Desktop",128
+San Jose,5.0,DavidPon,11
+location,rating,name,review_count
+Coralville,5.0,Joshua Nathaniel,5
+Gainesville,4.9,helmot,197
+Newark,5.0,doublebc,181
+location,rating,name,review_count
+CLEVELAND,4.8,NovaStudios,590
+Atlanta,4.8,Best Academic Writing,54
+Omaha,0.0,kawalsh13,0
+Worcester,4.8,TRANSFORM INDESIGN,226
+Oklahoma,5.0,Dhammika Maheshani,36
+MORRISVILLE,4.9,Devon Drynoch,35
+Seattle,4.7,Expert Academics,89
+Waterford,0.0,robin16w,0
+Near Buffalo,5.0,point2pont,129
+Bedford,5.0,VoiceoverMike,174
+location,rating,name,review_count
+CLEVELAND,4.8,NovaStudios,590
+Ypsilanti,4.9,Vuk Ivanovic,82
+Champaign,4.8,Illinek,470
+Newark,5.0,doublebc,181
+Augusta,5.0,mmbertasi,106
+Cupertino,4.9,cupertinovw-Jay,80
+Augusta,4.9,Paul Joyner,15
+New York,4.3,vineetasaxena,177
+Turnersville,5.0,Matt,50
+location,rating,name,review_count
+CLEVELAND,4.8,NovaStudios,590
+Champaign,4.8,Illinek,470
+Pearland,4.8,jxsarwar,187
+Hollywood,4.9,driverrodrick,61
+Worcester,4.8,TRANSFORM INDESIGN,226
+NJ,5.0,"Web, Mobile Apps, Desktop",128
+Near Buffalo,5.0,point2pont,129
+tempe,4.6,The Bug Stops here,191
+Jersey City,5.0,PhoenixGeek,83
+lakewood ranch,5.0,certaintly,280
+location,rating,name,review_count
+CLEVELAND,4.8,NovaStudios,590
+Pearland,4.8,jxsarwar,187
+Sarasota,5.0,Electrolime Design,42
+Worcester,4.8,TRANSFORM INDESIGN,226
+Costa Mesa,4.8,iGT Tech,88
+NJ,5.0,"Web, Mobile Apps, Desktop",128
+Newyork,4.6,Annie Studio,119
+tempe,4.6,The Bug Stops here,191
+Jersey City,5.0,PhoenixGeek,83
+lakewood ranch,5.0,certaintly,280
+location,rating,name,review_count
+R,4.9,theblurbspot.com,192
+New York,4.7,Mystie Chamberlin,12
+Staten Island,5.0,Xenophon(s) Studio,2
+Charlotte,5.0,The_Drawing_Board,10
+Liberty Township,5.0,SehreenS,79
+Farmers Branch,5.0,Hector Ayala,4
+Waukesha,5.0,csieg1120,19
+Boston,5.0,zdesign77,1
+johnson city,5.0,Thoughtfulwrites,455
+lakewood ranch,5.0,certaintly,280
+location,rating,name,review_count
+New York,5.0,Holly,43
+San Ramon,5.0,MelissaVoice,9
+Kansas City,4.9,Gregory Bair,709
+new york,4.4,leodesigner,32
+Worcester,4.8,TRANSFORM INDESIGN,226
+Germantown,4.9,mahtab7,101
+PITTSBURG,4.8,Campenhout,77
+location,rating,name,review_count
+PITTSBURG,4.8,Campenhout,77
+Rome,5.0,Jonathan Spratling,21
+Champaign,4.8,Illinek,470
+location,rating,name,review_count
+PITTSBURG,4.8,Campenhout,77
+San Ramon,5.0,MelissaVoice,9
+Champaign,4.8,Illinek,470
+Meridian,5.0,NT Productions,50
+location,rating,name,review_count
+PITTSBURG,4.8,Campenhout,77
+Champaign,4.8,Illinek,470
+Indianapolis,5.0,Shoon Akagi,1
+location,rating,name,review_count
+Denver,5.0,kuma1030,17
+Morrisville,5.0,SVVP24,2
