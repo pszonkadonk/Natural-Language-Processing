@@ -29,11 +29,11 @@ def get_freelancer_info(freelancers):
 
 def writeToCSV(freelancer_data):
 
-    print(freelancer_data[0])
+    print(freelancer_data)
 
     keys = freelancer_data[0].keys()
 
-    with open('freelancers.csv', 'w') as output_file:
+    with open('freelancers.csv', 'a') as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(freelancer_data)
@@ -44,23 +44,31 @@ def writeToCSV(freelancer_data):
 
 url = 'https://freelancer.com'
 
-skills['Javascript', 'PHP', 'Java', 'Copywriting', 'Technical Writing', 'Ghostwriting', 'MySQL',
-        'CSS', 'Web Scraping', 'Data Mining', 'Accounting', 'Advertising']
+# skills = ['Javascript', 'PHP', 'Java', 'Python', 'MySQL', 'CSS', 'Excel', 'Accounting',
+#          'Finance','Advertising', 'Marketing', 'Android', 'Swift', 'Ruby', 'HTML5', 'Perl',
+#           'Photoshop', 'Illustrator', 'Photography', 'Spanish', 'German','French','Japanese', 'Hindi']
+
+
+skills = ['Javascript', 'CSS', 'Java', 'Android', 'MySQL', 'Ruby', 'Excel', 'PHP']
+
+for skill in skills:
+    search_freelancers = 'https://www.freelancer.com/freelancers/United_States/'+skill
+    print(search_freelancers)
+    r = requests.get(search_freelancers)
+    data = r.text
+
+    soup = BeautifulSoup(data, 'html.parser')
+
+    freelancers = []
+    for a in soup.find_all('a',attrs={'hireme-event': 'ProfileRedirect'}, href=True):
+        freelancers.append(a['href'])
+
+    freelancers = list(set(freelancers))
+
+    freelancer_info = get_freelancer_info(freelancers)
+
+    writeToCSV(freelancer_info)
+
+    
     
 
-search_freelancers = 'https://www.freelancer.com/freelancers/United_States/Website_Design/2'
-
-r = requests.get(search_freelancers)
-data = r.text
-
-soup = BeautifulSoup(data, 'html.parser')
-
-freelancers = []
-for a in soup.find_all('a',attrs={'hireme-event': 'ProfileRedirect'}, href=True):
-    freelancers.append(a['href'])
-
-freelancers = list(set(freelancers))
-
-freelancer_info = get_freelancer_info(freelancers)
-
-writeToCSV(freelancer_info)
