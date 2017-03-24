@@ -36,7 +36,7 @@ def get_freelancer_info(freelancers):
 
 def writeToCSV(freelancer_data):
 
-    print(freelancer_data)
+    # print(freelancer_data)
 
     keys = freelancer_data[0].keys()
 
@@ -50,6 +50,7 @@ def writeToCSV(freelancer_data):
 def scrape_freelancer():
     for skill in SKILLS:
         search_freelancers = 'https://www.freelancer.com/freelancers/United_States/'+skill
+        print(search_freelancers)
         r = requests.get(search_freelancers)
         data = r.text
 

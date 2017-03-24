@@ -1,215 +1,203 @@
-location,rating,name,review_count
-CLEVELAND,4.8,NovaStudios,590
-Champaign,4.8,Illinek,470
-Pearland,4.8,jxsarwar,187
-Hollywood,4.9,driverrodrick,61
-Tulsa,5.0,Blake Connally,12
-NJ,5.0,"Web, Mobile Apps, Desktop",128
-Columbia,5.0,Rohit Gupta,5
-Boca Raton,5.0,Level 6 LLC,10
-Euless,4.7,Rahim Khan,134
-Jersey City,5.0,PhoenixGeek,83
-location,rating,name,review_count
-CLEVELAND,4.8,NovaStudios,590
-Atlanta,4.8,Best Academic Writing,54
-Champaign,4.8,Illinek,470
-San Jose,5.0,DavidPon,11
-Worcester,4.8,TRANSFORM INDESIGN,226
-MORRISVILLE,4.9,Devon Drynoch,35
-Tulsa,5.0,Blake Connally,12
-Columbia,5.0,Rohit Gupta,5
-Boca Raton,5.0,Level 6 LLC,10
-tempe,4.6,The Bug Stops here,191
-location,rating,name,review_count
-CLEVELAND,4.8,NovaStudios,590
-Champaign,4.8,Illinek,470
-San Jose,5.0,DavidPon,11
-Kansas City,4.9,Gregory Bair,709
-Tulsa,5.0,Blake Connally,12
-Fairfax,5.0,Amyn Virani,44
-Denver,5.0,Ta0soft,126
-Gainesville,4.9,helmot,197
-Boca Raton,5.0,Level 6 LLC,10
-Euless,4.7,Rahim Khan,134
-location,rating,name,review_count
-Ypsilanti,4.9,Vuk Ivanovic,82
-Austin,5.0,Joseph Cardwell,35
-Champaign,4.8,Illinek,470
-Newark,5.0,doublebc,181
-Fairfax,5.0,Amyn Virani,44
-Tamarac,4.9,Q-Protex,78
-Gainesville,4.9,helmot,197
-Euless,4.7,Rahim Khan,134
-Austin,4.7,MultiverseSol,29
-Los Angeles,5.0,Dawn - IT,32
-location,rating,name,review_count
-CLEVELAND,4.8,NovaStudios,590
-Champaign,4.8,Illinek,470
-Newark,5.0,doublebc,181
-Hollywood,4.9,driverrodrick,61
-Tulsa,5.0,Blake Connally,12
-Fairfax,5.0,Amyn Virani,44
-York,5.0,djt72,126
-NJ,5.0,"Web, Mobile Apps, Desktop",128
-tempe,4.6,The Bug Stops here,191
-Jersey City,5.0,PhoenixGeek,83
-location,rating,name,review_count
-CLEVELAND,4.8,NovaStudios,590
-Fort Wayne,4.9,Writer075 Inc.,427
-Pearland,4.8,jxsarwar,187
-Newark,5.0,doublebc,181
-Hollywood,4.9,driverrodrick,61
-Worcester,4.8,TRANSFORM INDESIGN,226
-Denver,5.0,Ta0soft,126
-NJ,5.0,"Web, Mobile Apps, Desktop",128
-Euless,4.7,Rahim Khan,134
-Jersey City,5.0,PhoenixGeek,83
-location,rating,name,review_count
-Champaign,4.8,Illinek,470
-Kansas City,4.9,Gregory Bair,709
-Newark,5.0,doublebc,181
-Oklahoma,5.0,Dhammika Maheshani,36
-Fairfax,5.0,Amyn Virani,44
-Denver,5.0,Ta0soft,126
-Gainesville,4.9,helmot,197
-Tamarac,4.9,Q-Protex,78
-NJ,5.0,"Web, Mobile Apps, Desktop",128
-Germantown,4.9,mahtab7,101
-location,rating,name,review_count
-Phoenix,5.0,ruby_SmartBusiness,20
-El Paso,5.0,Gabriel Gonzalez,26
-Atlanta,4.8,Best Academic Writing,54
-Champaign,4.8,Illinek,470
-Kansas City,4.9,Gregory Bair,709
-Cupertino,4.9,cupertinovw-Jay,80
-location,rating,name,review_count
-El Paso,5.0,Gabriel Gonzalez,26
-Champaign,4.8,Illinek,470
-Kansas City,4.9,Gregory Bair,709
-Richardson,4.9,hilaloo86,32
-Gilbert,5.0,MaxDongell,15
-Denver,5.0,Ta0soft,126
-West Jordan,5.0,MasterOfNumbers,112
-Glen Elder,4.9,James Walpole,121
-New York,4.8,Paul Words,124
-johnson city,5.0,Thoughtfulwrites,455
-location,rating,name,review_count
-johnson city,5.0,Thoughtfulwrites,455
-Kansas City,4.9,Gregory Bair,709
-Costa Mesa,4.8,iGT Tech,88
-Surprise,4.9,Chris Robert,227
-Union City,4.9,MydZnecoz,89
-Near Buffalo,5.0,point2pont,129
-Newyork,4.6,Annie Studio,119
-Germantown,4.9,mahtab7,101
-Jersey City,5.0,PhoenixGeek,83
-New Port Richey,5.0,gr8creations,84
-location,rating,name,review_count
-Pearland,4.8,jxsarwar,187
-Kansas City,4.9,Gregory Bair,709
-Jersey City,5.0,PhoenixGeek,83
-Worcester,4.8,TRANSFORM INDESIGN,226
-Surprise,4.9,Chris Robert,227
-Seattle,4.7,Expert Academics,89
-Glen Elder,4.9,James Walpole,121
-Near Buffalo,5.0,point2pont,129
-Germantown,4.9,mahtab7,101
-johnson city,5.0,Thoughtfulwrites,455
-location,rating,name,review_count
-Urbandale,5.0,akh32,13
-Champaign,4.8,Illinek,470
-Independence,5.0,robertbarryson,9
-San Jose,5.0,DavidPon,11
-Oak Hills,5.0,UnitedWebSpace,5
-Tamarac,4.9,Q-Protex,78
-Cupertino,4.9,cupertinovw-Jay,80
-NJ,5.0,"Web, Mobile Apps, Desktop",128
-Chicago,4.9,I-Creative Tech,19
-Los Angeles,5.0,Dawn - IT,32
-location,rating,name,review_count
-Markham,5.0,Randel G. Smith,16
-Oceanside,5.0,JWasson,3
-NJ,5.0,"Web, Mobile Apps, Desktop",128
-San Jose,5.0,DavidPon,11
-location,rating,name,review_count
-Coralville,5.0,Joshua Nathaniel,5
-Gainesville,4.9,helmot,197
-Newark,5.0,doublebc,181
-location,rating,name,review_count
-CLEVELAND,4.8,NovaStudios,590
-Atlanta,4.8,Best Academic Writing,54
-Omaha,0.0,kawalsh13,0
-Worcester,4.8,TRANSFORM INDESIGN,226
-Oklahoma,5.0,Dhammika Maheshani,36
-MORRISVILLE,4.9,Devon Drynoch,35
-Seattle,4.7,Expert Academics,89
-Waterford,0.0,robin16w,0
-Near Buffalo,5.0,point2pont,129
-Bedford,5.0,VoiceoverMike,174
-location,rating,name,review_count
-CLEVELAND,4.8,NovaStudios,590
-Ypsilanti,4.9,Vuk Ivanovic,82
-Champaign,4.8,Illinek,470
-Newark,5.0,doublebc,181
-Augusta,5.0,mmbertasi,106
-Cupertino,4.9,cupertinovw-Jay,80
-Augusta,4.9,Paul Joyner,15
-New York,4.3,vineetasaxena,177
-Turnersville,5.0,Matt,50
-location,rating,name,review_count
-CLEVELAND,4.8,NovaStudios,590
-Champaign,4.8,Illinek,470
-Pearland,4.8,jxsarwar,187
-Hollywood,4.9,driverrodrick,61
-Worcester,4.8,TRANSFORM INDESIGN,226
-NJ,5.0,"Web, Mobile Apps, Desktop",128
-Near Buffalo,5.0,point2pont,129
-tempe,4.6,The Bug Stops here,191
-Jersey City,5.0,PhoenixGeek,83
-lakewood ranch,5.0,certaintly,280
-location,rating,name,review_count
-CLEVELAND,4.8,NovaStudios,590
-Pearland,4.8,jxsarwar,187
-Sarasota,5.0,Electrolime Design,42
-Worcester,4.8,TRANSFORM INDESIGN,226
-Costa Mesa,4.8,iGT Tech,88
-NJ,5.0,"Web, Mobile Apps, Desktop",128
-Newyork,4.6,Annie Studio,119
-tempe,4.6,The Bug Stops here,191
-Jersey City,5.0,PhoenixGeek,83
-lakewood ranch,5.0,certaintly,280
-location,rating,name,review_count
-R,4.9,theblurbspot.com,192
-New York,4.7,Mystie Chamberlin,12
-Staten Island,5.0,Xenophon(s) Studio,2
-Charlotte,5.0,The_Drawing_Board,10
-Liberty Township,5.0,SehreenS,79
-Farmers Branch,5.0,Hector Ayala,4
-Waukesha,5.0,csieg1120,19
-Boston,5.0,zdesign77,1
-johnson city,5.0,Thoughtfulwrites,455
-lakewood ranch,5.0,certaintly,280
-location,rating,name,review_count
-New York,5.0,Holly,43
-San Ramon,5.0,MelissaVoice,9
-Kansas City,4.9,Gregory Bair,709
-new york,4.4,leodesigner,32
-Worcester,4.8,TRANSFORM INDESIGN,226
-Germantown,4.9,mahtab7,101
-PITTSBURG,4.8,Campenhout,77
-location,rating,name,review_count
-PITTSBURG,4.8,Campenhout,77
-Rome,5.0,Jonathan Spratling,21
-Champaign,4.8,Illinek,470
-location,rating,name,review_count
-PITTSBURG,4.8,Campenhout,77
-San Ramon,5.0,MelissaVoice,9
-Champaign,4.8,Illinek,470
-Meridian,5.0,NT Productions,50
-location,rating,name,review_count
-PITTSBURG,4.8,Campenhout,77
-Champaign,4.8,Illinek,470
-Indianapolis,5.0,Shoon Akagi,1
-location,rating,name,review_count
-Denver,5.0,kuma1030,17
-Morrisville,5.0,SVVP24,2
+location,rating,name,review_count,latitude,longitude
+Atlanta,4.8,Best Academic Writing,54,33.749,-84.388
+Augusta,5,mmbertasi,106,33.4735,-82.0105
+Augusta,4.9,Paul Joyner,15,33.4735,-82.0105
+Austin,5,Joseph Cardwell,35,30.2672,-97.7431
+Austin,4.7,MultiverseSol,29,30.2672,-97.7431
+Bedford,5,VoiceoverMike,174,30.2672,-97.7431
+Boca Raton,5,Level 6 LLC,10,48.9937,-122.7471
+Boston,5,zdesign77,1,48.9937,-122.7471
+Brooklyn,5,Sam Michael,44,40.6782,-73.9442
+Champaign,4.8,Illinek,470,40.1164,-88.2434
+Charlotte,5,The_Drawing_Board,10,35.2271,-80.8431
+Chicago,4.9,I-Creative Tech,19,41.8781,-87.6298
+CLEVELAND,4.8,NovaStudios,590,41.4993,-81.6944
+Columbia,5,Rohit Gupta,5,34.0007,-81.0348
+Coralville,5,Joshua Nathaniel,5,34.0007,-81.0348
+Costa Mesa,4.8,iGT Tech,88,33.6411,-117.9187
+Cupertino,4.9,cupertinovw-Jay,80,37.323,-122.0322
+Denver,5,kuma1030,17,39.7392,-104.9903
+Denver,5,Ta0soft,126,39.7392,-104.9903
+El Paso,5,Gabriel Gonzalez,26,31.7619,-106.485
+Euless,4.7,Rahim Khan,134,32.8371,-97.082
+Fairfax,5,Amyn Virani,44,38.8462,-77.3064
+Farmers Branch,5,Hector Ayala,4,32.9265,-96.8961
+Fort Wayne,4.9,Writer075 Inc.,427,36.7281,-108.2187
+Gainesville,4.9,helmot,197,29.6516,-82.3248
+Germantown,4.9,mahtab7,101,39.1732,-77.2717
+Gilbert,5,MaxDongell,15,33.3528,-111.789
+Glen Elder,4.9,James Walpole,121,39.4986,-98.3087
+Hollywood,4.9,driverrodrick,61,34.0928,118.3287
+Independence,5,robertbarryson,9,39.0911,-94.4155
+Indianapolis,5,Shoon Akagi,1,39.7684,-86.1581
+Jackson,5,DEVINIUM Tech Team,10,32.2988,-90.1848
+Jersey City,5,PhoenixGeek,83,40.7282,-74.0776
+johnson city,5,Thoughtfulwrites,455,36.3134,-82.3535
+Kansas City,4.9,Gregory Bair,709,39.0997,-94.5786
+Katy,5,Pernia Qamar,2,29.7858,95.8244
+lakewood ranch,5,certaintly,280,27.4117,-82.4285
+Liberty Township,5,SehreenS,79,42.8864,-78.8784
+Lombard,4.5,Golpik,14,41.88,-88.0078
+Los Angeles,5,Dawn - IT,32,34.0522,-118.2437
+Markham,5,Randel G. Smith,16,42.8864,-78.8784
+Meridian,5,NT Productions,50,42.8864,-78.8784
+MORRISVILLE,4.9,Devon Drynoch,35,42.8864,-72.5984
+Morrisville,5,SVVP24,2,42.8864,-72.5984
+Buffalo,5,point2pont,129,42.8864,-78.8784
+New York,5,Holly,43,40.7128,-74.0059
+new york,4.4,leodesigner,32,40.7128,-74.0059
+New York,4.7,Mystie Chamberlin,12,40.7128,-74.0059
+New York,4.8,Online Content Writer,252,40.7128,-74.0059
+New York,4.8,Paul Words,124,40.7128,-74.0059
+New York,5,Pro Artist New York,471,40.7128,-74.0059
+New York,4.3,vineetasaxena,177,40.7128,-74.0059
+New York,4.6,Annie Studio,119,40.7128,-74.0059
+Newark,5,"Web, Mobile Apps, Desktop",128,40.7357,-74.1724
+Oak Hills,5,UnitedWebSpace,5,34.2381,-118.5301
+Oceanside,5,JWasson,3,34.2381,-118.5301
+Oklahoma,5,Dhammika Maheshani,36,36.154,-95.9928
+Omaha,0,kawalsh13,0,41.2524,-95.998
+Pearland,4.8,jxsarwar,187,29.5636,-95.286
+Phoenix,5,ruby_SmartBusiness,20,39.9526,-75.1652
+PITTSBURG,4.8,Campenhout,77,40.4406,-79.9959
+Richardson,4.9,hilaloo86,32,32.9483,-96.7299
+Rome,5,Jonathan Spratling,21,34.257,-85.1647
+San Jose,5,DavidPon,11,37.3382,-121.8863
+San Ramon,5,MelissaVoice,9,37.7799,-121.978
+Seattle,4.7,Expert Academics,89,47.6062,-122.3321
+Staten Island,5,Xenophon(s) Studio,2,40.5795,-74.1502
+Surprise,4.9,Chris Robert,227,33.6292,-112.3679
+Tamarac,4.9,Q-Protex,78,26.2129,-80.2498
+tempe,4.6,The Bug Stops here,191,33.4255,-111.94
+Tulsa,5,Blake Connally,12,36.154,-95.9928
+Turnersville,5,Matt,50,39.7729,-75.0519
+Union City,4.9,MydZnecoz,89,37.5934,-122.0438
+Urbandale,5,akh32,13,41.6267,-93.7122
+Waterford,0,robin16w,0,41.6267,-93.7122
+Waukesha,5,csieg1120,19,43.0117,-88.2315
+West Jordan,5,MasterOfNumbers,112,40.6097,-111.9391
+Worcester,4.8,TRANSFORM INDESIGN,226,42.2626,-71.8023
+York,5,djt72,126,39.9626,-76.7277
+sarasota,5,Electrolime Design,42,27.3364,-82.5307
+schenectady,5,JC DESIGN SOLUTIONS,10,42.8142,-73.9396
+myrtle point,5,Kartnip,106,43.0648,-124.139
+putnam valley,4.9,etherVision - C. Howell,0,41.3424,-73.8491
+levittown,4.9,Appilogix,3,40.7259,-73.5143
+blountsville,5,HitekCode,76,34.0815,-86.5911
+baltimore,5,rlfosterjr,1,39.2904,-76.6122
+bellevue,4.1,DBBestMobile,5,47.6101,-122.2015
+bethesda,5,Gevorg (George) Chepchyan,36,38.9847,-77.0947
+bridge city,5,Choose Arts,8,30.0208,-93.8457
+fosston,5,M.Reierson,14,47.5761,-95.7517
+hayward,5,Yi Liu,37,37.6688,-122.0808
+jacksonville,4.9,Lawzilly,151,30.3322,-81.6557
+northridge,4.8,Infoway LLC,609,34.2381,-118.5301
+New York City,4.9,catstevens2009,133,40.7128,-74.0059
+New York City,4.8,wigwamtom,15,40.7128,-74.0059
+New York City,4.3,craftbynick,10,40.7128,-74.0059
+New York City,0,adamfader,0,40.7128,-74.0059
+New York City,5,Pegassus14,1,40.7128,-74.0059
+New York City,0,theIMGuy,0,40.7128,-74.0059
+New York City,3.8,SEH328,1,40.7128,-74.0059
+New York City,0,justal86,0,40.7128,-74.0059
+New York City,3.8,vorteksIndia,5,40.7128,-74.0059
+San Francisco,4.9,yilmazsatti,65,37.7749,-122.4194
+San Francisco,5,�o0ez0o,37,37.7749,-122.4194
+San Francisco,5,�skulledeu,12,37.7749,-122.4194
+San Francisco,0,�fstltna2,0,37.7749,-122.4194
+San Francisco,0,�zenglin,0,37.7749,-122.4194
+San Francisco,4.9,�Ashmaroli,34,37.7749,-122.4194
+Detroit,5,�heenafreelancer1,1,42.3314,-83.0458
+Detroit,5,�Mikilittle,1,42.3314,-83.0458
+Detroit,4.7,�madhurna,84,42.3314,-83.0458
+Detroit,5,DanielleDesigns1,17,42.3314,-83.0458
+Detroit,4.9,�kaycharles,19,42.3314,-83.0458
+Detroit,4.9,yazb,46,42.3314,-83.0458
+Detroit,5,GeenaTowne,54,42.3314,-83.0458
+Houston,4.9,ctaborda,119,29.7604,-95.3698
+Houston,4.7,VideoJeeves,51,29.7604,-95.3698
+Houston,4.9,LogoDesignBee,17,29.7604,-95.3698
+Houston,0,rayray123,0,29.7604,-95.3698
+Houston,4.3,WpOinT,13,29.7604,-95.3698
+Houston,0,rhymintimon,0,29.7604,-95.3698
+Dallas,2.2,jamesworks5 ,3,32.7767,-96.797
+Dallas,5,webtrix8,21,32.7767,-96.797
+Dallas,2.7,MaryMelek,6,32.7767,-96.797
+Dallas,5,thetronvw   ,86,32.7767,-96.797
+Dallas,2.3,waynewooldridge,2,32.7767,-96.797
+Dallas,0,LinguAssist,0,32.7767,-96.797
+Boston,5,Celtic2909,27,48.9937,-122.7471
+Boston,3.5,alliemadison12   ,2,48.9937,-122.7471
+Boston,2.1,zdesign77   ,1,48.9937,-122.7471
+Boston,0,zhalelov,0,48.9937,-122.7471
+Boston,0,bethcochran888,0,48.9937,-122.7471
+Boston,5,calovera,25,48.9937,-122.7471
+Boston,5,buehlerap,71,48.9937,-122.7471
+Los Angeles,0,jeremihandrinos,0,34.0522,-118.2437
+Los Angeles,1.8,coolstarbianca,1,34.0522,-118.2437
+Los Angeles,0,derickdownssl,0,34.0522,-118.2437
+Los Angeles,0,EmissaryComm,0,34.0522,-118.2437
+Los Angeles,0,Bizkonson,0,34.0522,-118.2437
+Los Angeles,4.9,rskelly   ,4,34.0522,-118.2437
+Los Angeles,1.8,ShawnEndsley   ,2,34.0522,-118.2437
+Seattle,5,walterrobertt,89,47.6062,-122.3321
+Seattle,0,vw59608vw,0,47.6062,-122.3321
+Seattle,0,jzika,0,47.6062,-122.3321
+Seattle,0,cmoody72,0,47.6062,-122.3321
+Seattle,0,Majora320,0,47.6062,-122.3321
+Seattle,0,Kjkemp76,0,47.6062,-122.3321
+Seattle,0,tremainrchris,0,47.6062,-122.3321
+Seattle,0,ramyrafik,0,47.6062,-122.3321
+Seattle,0,matemiminoshvili,0,47.6062,-122.3321
+Denver,0,egg82,0,39.7392,-104.9903
+Denver,0,albertwesker,0,39.7392,-104.9903
+Denver,0,SuperMarioZ,0,39.7392,-104.9903
+Denver,5,piscespalio,537,39.7392,-104.9903
+Denver,5,dunksdesign,31,39.7392,-104.9903
+Denver,4,jakedodd,12,39.7392,-104.9903
+Denver,5,maysam,174,39.7392,-104.9903
+Denver,5,ta0soft,126,39.7392,-104.9903
+Denver,4,WChambers,9,39.7392,-104.9903
+Denver,0,laetamike,0,39.7392,-104.9903
+Chicago,5,GlobalWDF,29,41.8781,-87.6298
+Chicago,1.1,aarthi0726,3,41.8781,-87.6298
+Chicago,2.7,webstorm555,3,41.8781,-87.6298
+Chicago,0.2,reggiepalencia30,2,41.8781,-87.6298
+Chicago,0,hcebeltran,1,41.8781,-87.6298
+Chicago,0,hybride,0,41.8781,-87.6298
+Chicago,0,mhshakir12,0,41.8781,-87.6298
+San Antonio,4.1,catlook,20,29.4241,-98.4936
+San Antonio,4.8,written4uintexas,12,29.4241,-98.4936
+San Antonio,3.8,readyforwork2215,7,29.4241,-98.4936
+San Antonio,3.7,terryanderson,8,29.4241,-98.4936
+San Antonio,4.9,sanspeech,36,29.4241,-98.4936
+San Antonio,5,webworldsolz,114,29.4241,-98.4936
+Austin,0,jonvidaure,0,30.2672,-97.7431
+Austin,5,mikesteve,137,30.2672,-97.7431
+Austin,5,Zachary1748,42,30.2672,-97.7431
+Austin,4.2,jonathandnielsen,12,30.2672,-97.7431
+Austin,5,AndrewSciComp,8,30.2672,-97.7431
+Austin,4.8,anniegunn,10,30.2672,-97.7431
+Austin,5,comwizz2,9,30.2672,-97.7431
+Charlotte,5,yeki,75,35.2271,-80.8431
+Charlotte,4,ubudog,12,35.2271,-80.8431
+Charlotte,4.3,azimjs,29,35.2271,-80.8431
+Charlotte,3.4,piannitti3,4,35.2271,-80.8431
+Charlotte,2.6,samdknowlton,3,35.2271,-80.8431
+Charlotte,1.2,saiyesaswym,2,35.2271,-80.8431
+Charlotte,4,gdougniday,8,35.2271,-80.8431
+Atlanta,1.6,debsantos,1,33.749,-84.388
+Atlanta,0.6,uniquewriter89,1,33.749,-84.388
+Atlanta,5,Saliths,54,33.749,-84.388
+Atlanta,5,JeoFreelance,65,33.749,-84.388
+Atlanta,4.6,mbertani,1,33.749,-84.388
+Atlanta,5.3,numberNmatrix,22,33.749,-84.388
+Miami,0,Samuelmateran,0,25.7617,-80.1918
+Miami,3.6,simonfrfr,3,25.7617,-80.1918
+Miami,3.3,carlosov,2,25.7617,-80.1918
+Miami,0,AlejandraPetit,0,25.7617,-80.1918
+Miami,0,geoasher023,0,25.7617,-80.1918
+Miami,0,JonaPineda,0,25.7617,-80.1918
+Miami,0,jmejiamazuera,0,25.7617,-80.1918
+Miami,5,luiswilliam,51,25.7617,-80.1918
+Miami,5,qprotex,78,25.7617,-80.1918
